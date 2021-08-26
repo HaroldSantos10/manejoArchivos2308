@@ -1,0 +1,7 @@
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\manejoArchivos2308\manejoArchivos2308\bin\Debug\manejoArchivos2308.exe.config
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\manejoArchivos2308\manejoArchivos2308\bin\Debug\manejoArchivos2308.exe
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\manejoArchivos2308\manejoArchivos2308\bin\Debug\manejoArchivos2308.pdb
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\manejoArchivos2308\manejoArchivos2308\obj\Debug\manejoArchivos2308.csproj.AssemblyReference.cache
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\manejoArchivos2308\manejoArchivos2308\obj\Debug\manejoArchivos2308.csproj.CoreCompileInputs.cache
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\manejoArchivos2308\manejoArchivos2308\obj\Debug\manejoArchivos2308.exe
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\manejoArchivos2308\manejoArchivos2308\obj\Debug\manejoArchivos2308.pdb
